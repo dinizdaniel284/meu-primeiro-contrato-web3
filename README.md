@@ -1,4 +1,8 @@
 # 💎 Consultoria de Vendas NFT (Web3)
+<p align="center">
+  <a href="README.md">🇧🇷 Português</a> | <a href="README_en.md">🇺🇸 English</a>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blockchain-Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
